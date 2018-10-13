@@ -1,4 +1,4 @@
-> Events Log
+### Timeline
 
 ### 2018
 * Hotel California
