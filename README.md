@@ -1,4 +1,4 @@
-> chinese https://github.com/music1994/theory/issues
+> theory docs(chinese lang) https://github.com/music1994/theory/issues
 
 ## Timeline
 
